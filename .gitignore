@@ -1,0 +1,6 @@
+# FreeCAD backup files
+*.FCBak
+
+# Other exclusion
+*.pwmo
+*.pwmx
